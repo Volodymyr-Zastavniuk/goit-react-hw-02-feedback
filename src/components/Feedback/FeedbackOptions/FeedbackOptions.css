@@ -1,0 +1,14 @@
+.FeedbackOptions {
+  margin-right: 15px;
+  padding: 8px 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.FeedbackOptions:hover,
+.FeedbackOptions:focus {
+  background-color: rgb(171, 167, 167);
+}
